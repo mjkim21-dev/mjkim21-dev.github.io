@@ -1,24 +1,17 @@
 ---
-title: Individal Block Diagram
+title: Individual Block Diagram
 tags:
 - tag1
 - tag2
 ---
 
 ## Overview
-This needs to be updated with a brief purpose for having the block diagram.
-Things to mention are:
-* power levels
-* sensor
-* Actuator
-* team connections
-* Power source
-* ...
-
-To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
+The purpose of a block diagram is to help with the connections of the system. In a block diagram one can give a person a reasonable outline about why a part was chosen based on power levels, whether it was a sensor or actuator. A block diagram also helps with our team project which shows you where each board will be connected with the other team members.
 
 
-## Example Block Diagram 
-Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
 
-![Example of Indivial Block diagram ](individual-block-diagram.png)
+
+## Individual Block Diagram 
+
+![Indivial Block diagram ]()
+<img width="826" height="581" alt="Individual_ Block Diagram drawio" src="https://github.com/user-attachments/assets/5c95f47b-1fb7-4830-b183-7d7c18e329ad" />

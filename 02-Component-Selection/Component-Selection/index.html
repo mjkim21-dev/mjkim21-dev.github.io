@@ -554,30 +554,6 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Examples">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#style-1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Style 1
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#style-2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Style 2
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
 </li>
       
     </ul>
@@ -821,30 +797,6 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Examples">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#style-1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Style 1
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#style-2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Style 2
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
 </li>
       
     </ul>
@@ -873,12 +825,8 @@
   <h1>Component Selection Example</h1>
 
 <h2 id="examples">Examples</h2>
-<h3 id="style-1">Style 1</h3>
-<blockquote>
-<p>This is the example found in the assignment, uses more html</p>
-</blockquote>
-<p><em>Table 1: Example component selection</em></p>
-<p><strong>External Clock Module</strong></p>
+<p><em>Table 1: Component selection</em></p>
+<p><strong>Speaker</strong></p>
 <table>
 <thead>
 <tr>
@@ -889,88 +837,83 @@
 </thead>
 <tbody>
 <tr>
-<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image1.png" data-desc-position="bottom"><img alt="" src="../image1.png"></a><br>Option 1.<br> XC1259TR-ND surface mount crystal<br>$1/each<br><a href="http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366">link to product</a></td>
-<td>* Inexpensive[^1]<br>* Compatible with PSoC<br>* Meets surface mount constraint of project</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/4a6e4ee9-af1f-472a-84f4-861d48a5386b" data-desc-position="bottom"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4a6e4ee9-af1f-472a-84f4-861d48a5386b"></a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><br>Option 1.<br> SP-4005Y<br>$2.09/each<br><a href="https://www.digikey.com/en/products/detail/soberton-inc/SP-4005Y/9924431">link to product</a></td>
+<td>* Inexpensive[^1]<br>* Compatible with PSoC<br>*Through hole soldered</td>
 <td>* Requires external components and support circuitry for interface<br>* Needs special PCB layout.</td>
 </tr>
 <tr>
-<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image3.png" data-desc-position="bottom"><img alt="" src="../image3.png"></a><br>* Option 2. <br>* CTX936TR-ND surface mount oscillator <br>* $1/each <br>* <a href="http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940">Link to product</a></td>
-<td>* Outputs a square wave <br>* Stable over operating temperature <br> * Direct interface with PSoC (no external circuitry required) range</td>
-<td>* More expensive <br>* Slow shipping speed</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/e759554e-7d92-4457-a32f-5cc7db7a6c64" data-desc-position="bottom"><img width="970" height="728" alt="image" src="https://github.com/user-attachments/assets/e759554e-7d92-4457-a32f-5cc7db7a6c64"></a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>)<br>* Option 2. <br>* Speaker - 3" Diameter - 4 Ohm 3 Watt <br>* $1.95/each <br>* <a href="https://www.adafruit.com/product/1314#description">Link to product</a></td>
+<td>* Cheaper  <br>* 92 db output</td>
+<td>* Larger Size <br> *Tariff May Apply</td>
+</tr>
+<tr>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/e759554e-7d92-4457-a32f-5cc7db7a6c64" data-desc-position="bottom"><img width="970" height="728" alt="image" src="https://github.com/user-attachments/assets/e759554e-7d92-4457-a32f-5cc7db7a6c64"></a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><br>* Option 2. <br>* Speaker - 3" Diameter - 4 Ohm 3 Watt <br>* $1.95/each <br>* <a href="https://www.adafruit.com/product/1314#description">Link to product</a></td>
+<td>* Cheaper  <br>* 92 db output</td>
+<td>* Larger Size <br> *Tariff May Apply</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Choice:</strong> Option 2: CTX936TR-ND surface mount oscillator</p>
-<p><strong>Rationale:</strong> A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.</p>
-<h3 id="style-2">Style 2</h3>
-<blockquote>
-<p>Also acceptable, more markdown friendly</p>
-</blockquote>
-<p><strong>External Clock Module</strong></p>
-<ol>
-<li>
-<p>XC1259TR-ND surface mount crystal</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image1.png" data-desc-position="bottom"><img alt="" src="../image1.png"></a></p>
-<ul>
-<li>$1/each</li>
-<li><a href="http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366">link to product</a></li>
-</ul>
+<p><strong>Choice:</strong> Option 3: Change to the speaker we currently have</p>
+<p><strong>Rationale:</strong> We already have a capable speaker we were given in class, which reduces shipping time and is already soldered and ready to plug into the circuit.</p>
+<p><strong>Solenoid Motor</strong></p>
 <table>
 <thead>
 <tr>
-<th>Pros</th>
-<th>Cons</th>
+<th><strong>Solution</strong></th>
+<th><strong>Pros</strong></th>
+<th><strong>Cons</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Inexpensive</td>
-<td>Requires external components and support circuitry for interface</td>
-</tr>
-<tr>
-<td>Compatible with PSoC</td>
-<td>Needs special PCB layout.</td>
-</tr>
-<tr>
-<td>Meets surface mount constraint of project</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/2b05872e-3e23-478f-9d25-b759202749ff" data-desc-position="bottom"><img width="970" height="728" alt="image" src="https://github.com/user-attachments/assets/2b05872e-3e23-478f-9d25-b759202749ff"></a></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td><br>Option 1.<br> Plastic Water Solenoid Valve - 12V - 1/2" Nominal <br>$6.95/each<br><a href="https://www.adafruit.com/product/997">link to product</a></td>
+<td>* Inexpensive[^1]<br>* Compatible with PSoC<br>*  something</td>
+<td>* Requires external components and support circuitry for interface<br>* Needs special PCB layout.</td>
+</tr>
+<tr>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/a199710d-34a3-4170-a1e1-5ec0078e723d" data-desc-position="bottom"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a199710d-34a3-4170-a1e1-5ec0078e723d"></a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>)<br>* Option 2. <br>* 12V Solenoid Valve - 3/4 - 1046 <br>* $9.62/each <br>* <a href="https://www.digikey.com/en/products/detail/sparkfun-electronics/10456/5684378">Link to product</a></td>
+<td>* Smaller  <br>* Operates at 0.2~8 bar</td>
+<td>* 0°C ~ 75°C <br> *Tariff May Apply</td>
+</tr>
+<tr>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/e759554e-7d92-4457-a32f-5cc7db7a6c64" data-desc-position="bottom"><img width="970" height="728" alt="image" src="https://github.com/user-attachments/assets/e759554e-7d92-4457-a32f-5cc7db7a6c64"></a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><br>* Option 2. <br>* Speaker - 3" Diameter - 4 Ohm 3 Watt <br>* $1.95/each <br>* <a href="https://www.adafruit.com/product/1314#description">Link to product</a></td>
+<td>* Cheaper  <br>* 92 db output</td>
+<td>* Larger Size <br> *Tariff May Apply</td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>CTX936TR-ND surface mount oscillator</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image3.png" data-desc-position="bottom"><img alt="" src="../image3.png"></a></p>
-<ul>
-<li>$1/each</li>
-<li><a href="http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940">Link to product</a></li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>Pros</th>
-<th>Cons</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Outputs a square wave</td>
-<td>More expensive</td>
-</tr>
-<tr>
-<td>Stable over operating temperature</td>
-<td>Slow shipping speed</td>
-</tr>
-<tr>
-<td>Direct interface with PSoC (no external circuitry required) range</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</li>
-</ol>
-<p><strong>Choice:</strong> Option 2: CTX936TR-ND surface mount oscillator</p>
-<p><strong>Rationale:</strong> A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.</p>
+<p><strong>Choice:</strong> Option 3: Change to the speaker we currently have</p>
+<p><strong>Rationale:</strong> We already have a capable speaker we were given in class, which reduces shipping time and is already soldered and ready to plug into the circuit.</p>
 
 
 

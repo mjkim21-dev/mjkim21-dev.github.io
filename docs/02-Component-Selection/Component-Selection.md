@@ -15,7 +15,6 @@ title: Component Selection Example
 |<img width="970" height="728" alt="image" src="https://github.com/user-attachments/assets/e759554e-7d92-4457-a32f-5cc7db7a6c64" />
 <br>\* Option 2. <br>\* Speaker - 3" Diameter - 4 Ohm 3 Watt <br>\* $1.95/each <br>\* [Link to product](https://www.adafruit.com/product/1314#description) | \* Cheaper  <br>\* 92 db output | * Larger Size <br> *Tariff May Apply |
 |<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b82a7736-236a-435b-a56d-7c9911414197" />
- />
 <br>\* Option 3. <br>\* Vansonic 50CS08FH-1 Round Ferrite Speaker <br>\* $0.59/each <br>\* [Link to product](https://www.jameco.com/z/50CS08FH-1-Vansonic-Round-Ferrite-Speaker-1-94-Diameter-8-ohm-0-4-Watt-200-Hz-to-5-kHz_2328575.html) | \* Cheaper  <br>\* 85 db output | * Sound quality is not good <br> *Supporting Circuit needed |
 
 **Choice:** Option 3: Vansonic 50CS08FH-1 Round Ferrite Speaker

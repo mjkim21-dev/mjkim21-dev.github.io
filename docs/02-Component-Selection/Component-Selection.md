@@ -29,7 +29,7 @@ title: Component Selection Example
 <br>Option 1.<br> Plastic Water Solenoid Valve - 12V - 1/2" Nominal <br>$6.95/each<br>[link to product](https://www.adafruit.com/product/997)                 | \* Inexpensive[^1]<br>\* Compatible with PSoC<br>\*  something                                           | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
 |<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a199710d-34a3-4170-a1e1-5ec0078e723d" />
 <br>\* Option 2. <br>\* 12V Solenoid Valve - 3/4" - 1046 <br>\* $9.62/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/sparkfun-electronics/10456/5684378) | \* Smaller  <br>\* Operates at 0.2~8 bar | * 0°C ~ 75°C <br> *Tariff May Apply |
-|<img width="150" height="109" alt="image" src="https://github.com/user-attachments/assets/a5b881e9-b280-40f1-8938-34f7597abf1e" /
+|<img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/5583143f-d1e5-407f-9964-3e7c33353db1" />
 <br>\* Option 3. <br>\* DFRobot FIT0617 Solenoid Valve <br>\* $25/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/DFRobot/FIT0617?qs=T3oQrply3y%2Fjsecd34PRgA%3D%3D) | \* Direct connection to Microcontroller  <br>\* Valve and DC Motor integrated | * Larger Size <br> *Estimated 44% Tariff |
 
 **Choice:** Option 3: DFRobot FIT0617 Solenoid Valve

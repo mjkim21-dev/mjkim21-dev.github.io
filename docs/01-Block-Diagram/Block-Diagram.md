@@ -13,5 +13,5 @@ The purpose of a block diagram is to help with the connections of the system. In
 
 ## Individual Block Diagram 
 
-![Indivial Block diagram ](Individual_Block Diagram.drawio.png)
+![Indivial Block diagram ](BlockDiagramMk.drawio.png)
 

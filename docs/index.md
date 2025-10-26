@@ -15,13 +15,10 @@ for<br>
 </center>
 
 ## Introduction
-
-* This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
+This website holds all the data and processes from my individual part of the EGR 304 M/W 1:30 pm section of Team 211. The main team project aims to help homeowners with plant care, so my system is tailored to the motor and speakers of the team project.
 
 ### Project Summary
-
-* This needs to be updated to reflect <ins>your version</ins> of the team project, so when shared not via the team's report, the reader gets an idea of the direction of the project and how your work will contribute to the overall success.
-* Add context that ties into the link to your [team report.](https://egr304-2025-f-211.github.io/)
+For the project, my board includes a Solenoid valve and a Speaker system, so I am supposed to receive two signals (one power and one analog) from the main board. The analog signal goes to the speaker to allow for more diverse sounds and alarms, while the power opens the solenoid. You can read more from the [team report.](https://egr304-2025-f-211.github.io/)
 
 
 ### My Contribution

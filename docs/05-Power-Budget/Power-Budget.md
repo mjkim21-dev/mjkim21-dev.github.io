@@ -3,19 +3,19 @@ title: Power Budget
 ---
 
 ## Overview
-The power budget is a spreadsheet that contains the workflow of the power needed for my circuit. It shows all of my major components and ensures I have enough power to use them all.
+The power budget is a spreadsheet that outlines the workflow for the power required by my circuit. It displays all of my major components and ensures I have sufficient power to utilize them all.
 
 > Capture your power budget as an image to display. Take time to get clean breaks and a well-organized layout.
 
-![budget1](budgetPg1.png){style width:"350" height:"300;"} *add png of completed power budget into the overall file and match names in the blue text, and should be good to go
+![budget1](Budgetpg1.png){style width:"350" height:"300;"} *add png of completed power budget into the overall file and match names in the blue text, and should be good to go
 
-![budget2](budgetPg2.png){style width:"350" height:"300;"}
+![budget2](Budgetpg2.png){style width:"350" height:"300;"}
 
-![budget3](budgetPg3.png){style width:"350" height:"300;"}
+![budget3](Budgetpg3.png){style width:"350" height:"300;"}
 
 ## Conclusions
 
-From my Power Budget, .....
+From my Power Budget, We have concluded that using a 12V 5A source might be the best plan. Also, as a group, we have decided to share this 12V source through our connector pins and regulate it on each board.
 
 ## Resouces
 

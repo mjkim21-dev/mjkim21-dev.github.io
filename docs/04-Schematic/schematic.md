@@ -6,7 +6,7 @@ title: Schematic
 
 This schematic is designed to support a solenoid valve, PIC Nano microcontroller, and a speaker circuit.
 
-![Schematic1](Schematic.png){style width:"350" height:"300;"} 
+![Schematic1](SchematicMk.png){style width:"350" height:"300;"} 
 **Figure 1:** Showing current schematic.
 
 

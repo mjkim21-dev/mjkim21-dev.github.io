@@ -15,7 +15,7 @@ The power budget is a spreadsheet that outlines the workflow for the power requi
 
 ## Conclusions
 
-From my Power Budget, We have concluded that using a 12V 5A source might be the best plan. Also, as a group, we have decided to share this 12V source through our connector pins and regulate it on each board.
+From my Power Budget, We have concluded that using a 9V 5A source might be the best plan. Also, as a group, we have decided to share this 9V source through our connector pins and regulate it on each board.
 
 ## Resouces
 

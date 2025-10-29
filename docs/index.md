@@ -23,7 +23,7 @@ For the project, my board includes a Solenoid valve and a Speaker system, so I a
 
 ### My Contribution 
 
-For the team component, I was one of the 3 subsystems off the main board. I was responsible for the design and creation of the solenoid and speaker system.  
+For the team component, I was one of the subsystems off the main board. I was responsible for the design and creation of the solenoid and speaker system.  
 
 To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of the datasheet.
 

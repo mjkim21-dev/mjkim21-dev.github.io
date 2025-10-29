@@ -4,12 +4,11 @@ title: Schematic
 
 ## Overview
 
-This schematic is designed to support a solenoid valve, PIC Nano microcontroller, and a speaker circuit.
+This schematic is designed to support a solenoid valve, PIC Nano MicroChip microcontroller, and a speaker circuit.
 
-![Schematic1](SchematicMk.png){style width:"350" height:"300;"} 
-**Figure 1:** Showing current schematic.
+![Schematic1](SchematicMk.png) 
+**Figure 1:** Showing Michael's Subsystem
 
 
 ## Resouces
-
-The schematic as a PDF download is available [*here*](SubsystemMK.pdf), and the Zip folder of the project [*here*](SubsystemMk-2.zip).
+The schematic, available as a PDF download, is [*here*](SubsystemMK.pdf), and the project zip folder is [*here*](SubsystemMk-2.zip).

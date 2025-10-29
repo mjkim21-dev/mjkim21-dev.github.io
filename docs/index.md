@@ -7,11 +7,11 @@ tags:
 <center>
 <font size= "6">EGR 304 (Michael Kim) Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> Water Irrigation System</font><br>
 for<br>
 <font size= "5"> Team 211 </font><br>
 
-**Submission: December, ##, 2025**
+**Submission: December 03, 2025**
 </center>
 
 ## Introduction

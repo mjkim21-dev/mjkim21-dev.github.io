@@ -10,7 +10,7 @@ title: Component Selection Example
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-|![Speaker Option 1 ](.png)
+|![Speaker Option 1 ](SP-4005Y_sml.webp)
 <br>Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.com/en/products/detail/soberton-inc/SP-4005Y/9924431)                 | \* Inexpensive[^1]<br>\* 88 db output <br>\*Through hole soldered | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
 |<img width="970" height="728" alt="image" src="https://github.com/user-attachments/assets/e759554e-7d92-4457-a32f-5cc7db7a6c64" />
 <br>\* Option 2. <br>\* Speaker - 3" Diameter - 4 Ohm 3 Watt <br>\* $1.95/each <br>\* [Link to product](https://www.adafruit.com/product/1314#description) | \* Cheaper  <br>\* 92 db output | * Larger Size <br> *Tariff May Apply |

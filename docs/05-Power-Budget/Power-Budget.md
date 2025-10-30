@@ -5,7 +5,6 @@ title: Power Budget
 ## Overview
 The power budget is a spreadsheet that outlines the workflow for the power required by my circuit. It displays all of my major components and ensures I have sufficient power to utilize them all.
 
-> Capture your power budget as an image to display. Take time to get clean breaks and a well-organized layout.
 
 ![budget1](Budgetpg1.png){style width:"350" height:"300;"} 
 

@@ -1,17 +1,14 @@
 ---
-title: Component Selection Example
+title: Component Selection 
 ---
-
-## Examples
-
 *Table 1: Component selection*
 
-**Speaker**
+## Speaker
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 |![Speaker Option 1](SP-4005Y_sml.webp)
-<br>Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.com/en/products/detail/soberton-inc/SP-4005Y/9924431)                 | \* Inexpensive[^1]<br>\* 88 db output <br>\*Through hole soldered | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
+Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.com/en/products/detail/soberton-inc/SP-4005Y/9924431)        | \* Inexpensive[^1]<br>\* 88 db output <br>\*Through hole soldered | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
 |![Speaker Option 2](1314-02.jpg)
 <br>\* Option 2. <br>\* Speaker - 3" Diameter - 4 Ohm 3 Watt <br>\* $1.95/each <br>\* [Link to product](https://www.adafruit.com/product/1314#description) | \* Cheaper  <br>\* 92 db output | * Larger Size <br> *Tariff May Apply |
 |![Speaker Option 3](2328575.jpg)
@@ -21,7 +18,7 @@ title: Component Selection Example
 
 **Rationale:** We already have a capable speaker we were given in class, which reduces shipping time and is already soldered and ready to plug into the circuit.
 
-**Solenoid Motor**
+## Solenoid Motor
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -36,7 +33,7 @@ title: Component Selection Example
 
 **Rationale:** Because we didn't use most of the budget on the Speaker, I think we can spend some here to get a really plug-and-play solenoid motor that fits directly with the PIC Nano.
 
-**MOSFET**
+## MOSFET
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |

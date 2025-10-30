@@ -11,4 +11,4 @@ This schematic is designed to support a solenoid valve, PIC Nano MicroChip micro
 
 
 ## Resouces
-The schematic, available as a PDF download, is [*here*](SubsystemMK.pdf), and the project zip folder is [*here*](Subsystem.zip).
+The schematic, available as a PDF download, is [*here*](SubsystemMK.pdf), and the project zip folder is [*here*](SubsystemMK-3.zip).

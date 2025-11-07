@@ -6,7 +6,7 @@ title: PCB
 
 This PCB is designed to support a solenoid valve, PIC Nano MicroChip microcontroller, and a speaker circuit.
 
-## Schematic
+## PCB 3D View
 
 ![PCB](pcbfront.png) 
 **Figure 1:** Showing Michael's Subsystem PCB Front

@@ -8,7 +8,7 @@ This PCB is designed to support a solenoid valve, PIC Nano MicroChip microcontro
 
 ## Schematic
 
-![PCB](.png) 
+![PCB](PCBmk.png) 
 **Figure 1:** Showing Michael's Subsystem PCB
 
 ## Resources

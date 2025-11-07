@@ -14,5 +14,5 @@ This PCB is designed to support a solenoid valve, PIC Nano MicroChip microcontro
 ![PCB](pcbrear.png) 
 **Figure 2:** Showing Michael's Subsystem PCB Rear
 ## Resources
-The PCBs project zip folder is a downloadable zip file [*here*](MichaelKim211.zip). The PCBs pdf file containing top and bottom layers can be found [*here*](PCBLayers.pdf).
+The PCBs project zip folder is a downloadable zip file [*here*](MichaelKim211.zip). The PCBs pdf file containing top and bottom layers can be found [*here*](PCBLayers.pdf). Then the PCBs Gerber files can be found [*here*](.zip).
 

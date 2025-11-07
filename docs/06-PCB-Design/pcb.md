@@ -9,8 +9,10 @@ This PCB is designed to support a solenoid valve, PIC Nano MicroChip microcontro
 ## Schematic
 
 ![PCB](PCBmk.png) 
-**Figure 1:** Showing Michael's Subsystem PCB
+**Figure 1:** Showing Michael's Subsystem PCB Front
 
+![PCB](.png) 
+**Figure 2:** Showing Michael's Subsystem PCB Rear
 ## Resources
-The PCB, available as a PDF download, is [*here*](.pdf), and the project zip folder is [*here*](.zip).
+The PCBs project zip folder is a downloadable zip file [*here*](.zip).
 

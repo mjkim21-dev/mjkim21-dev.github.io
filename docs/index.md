@@ -31,7 +31,7 @@ To review the details of the data sheet, hyperlinks are provided below: <br>
 [3. BOM](https://mjkim21-dev.github.io/03-BOM/BOM/) <br> 
 [4. Schematic](https://mjkim21-dev.github.io/04-Schematic/schematic/) <br> 
 [5. Power Budget](https://mjkim21-dev.github.io/05-Power-Budget/Power-Budget/) <br> 
-
+[6. PCB Design](https://mjkim21-dev.github.io/06-PCB-Design/pcb/)  
 
 
 

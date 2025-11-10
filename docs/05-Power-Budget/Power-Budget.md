@@ -18,4 +18,4 @@ From my Power Budget, We have concluded that using a 9V 5A source might be the b
 
 ## Resouces
 
-The power budget as a PDF download is available [*here*](PowerBudgetMK1.pdf), and a Microsoft Excel Sheet [*here*](PowerBudgetMK1.xlsx).
+The power budget is available as a PDF download [*here*](PowerBudgetMK2.pdf) and as a Microsoft Excel Sheet [*here*](PowerBudgetMK2.xlsx).

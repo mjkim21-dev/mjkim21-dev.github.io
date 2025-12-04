@@ -18,11 +18,17 @@ This PCB is designed to support a solenoid valve, PIC Nano MicroChip microcontro
 
 ## Manufactured Board
 
-![PCB](pcbrear.png)
-**Figure 1** shows the Skeleton of the Top-side PCB
+![PCB](image0-min.png)
+**Figure 1:** shows the Skeleton of the Top-side PCB
 
-![PCB](pcbrear.png)
-**Figure 2** shows the Skeleton of the bottom-side PCB
+![PCB](image1-min.png)
+**Figure 2:** shows the Skeleton of the bottom-side PCB
+
+![PCB](MadePCB-min.png)
+**Figure 3:** shows the Top-side PCB
+
+![PCB](image2-min.png)
+**Figure 4:** shows the bottom-side PCB
 
 
 ## Resources

@@ -8,7 +8,7 @@ This schematic is designed to support a solenoid valve, PIC Nano MicroChip micro
 
 ## Schematic
 
-![Schematic](SchematicMK7.png) 
+![Schematic](SchematicMK6.png) 
 **Figure 1:** Showing Michael's Subsystem
 
 ## Resources

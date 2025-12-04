@@ -8,5 +8,5 @@ As for the schematic, I've added R1, which is a pull-down resistor on pin RD6. O
 
 This is all for now, and I plan to get better at making PCBs as I progress through the EGR classes here at ASU.
 
-Regards, 
+Regards, <br>
 Michael Kim

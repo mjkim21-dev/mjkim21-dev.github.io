@@ -16,7 +16,13 @@ This PCB is designed to support a solenoid valve, PIC Nano MicroChip microcontro
 
 **Figure 2:** Showing Michael's Subsystem PCB Rear
 
+## Manufactured Board
 
+![PCB](pcbrear.png)
+**Figure 1** shows the Skeleton of the Top-side PCB
+
+![PCB](pcbrear.png)
+**Figure 2** shows the Skeleton of the bottom-side PCB
 
 
 ## Resources

@@ -23,7 +23,7 @@ As for the schematic, I've added R1, which is a pull-down resistor on pin RD6. O
 
 **Updated BOM**
 
-![BOM](.png) 
+![BOM](BOMmk2.png) 
 
 **Figure 2:** Updated BOM
 

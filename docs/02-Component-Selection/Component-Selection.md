@@ -98,11 +98,11 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-|![Option 1]()
+|![Option 1](9vDuracell.webp)
 <br>Option 1.<br> *9V Duracell Battery  <br>$4.82/each<br>[link to product](https://www.digikey.com/en/products/detail/duracell-industrial-operations-inc/9V/21259959)   | \* Inexpensive[^1]<br>  | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout to supprt battery. |
-|![ Option 2]()
+|![ Option 2](9vwall.jpg)
 <br>\* Option 2. <br> \*WR9HD1333CCP-F(R6B)  <br>\* $6.23/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/globtek-inc/WR9HD1333CCP-F-R6B/13245472) | \* Wall plug in  <br>\* 9V 1.3 A | *more expensive |
-|![ Option 3]()
+|![ Option 3](recharge.jpg)
 <br>\* Option 3. <br>\*LR14XWA/BL3X2  <br>\* $13.47/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/panasonic-energy/LR14XWA-BL3X2/2043779) | \* Doesnt need to plug into wall  <br>\* 9V \ * Rechargable| <br> * Expensive  |
 
 **Choice:** Option 2

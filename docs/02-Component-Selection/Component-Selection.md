@@ -70,7 +70,7 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 |![MOSFET Option 1](MOSFet.webp)
 <br>Option 1.<br> AOT2618L <br>$1.66/each<br>[link to product](https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AOT2618L/3603378)                 | \* Inexpensive[^1]<br>\* Compatible with PSoC<br>                                         | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
 |![MOSFET Option 2](MOSFet.webp)
-<br>\* Option 2. <br>\* NDP6060L <br>\* $2.63/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/onsemi/NDP6060L/244273) | \* 60 V 48 Amp  <br>\* 471 in stock | * Onsemi is from AZ <br> *more expensive |
+<br>\* Option 2. <br>\* NDP6060L <br>\* $2.63/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/onsemi/NDP6060L/244273) | \* 60 V 48 Amp  <br>  \* Onsemi is from AZ | <br> *more expensive |
 |![MOSFET Option 3](STP55nF06.webp)
 <br>\* Option 3. <br>\* STP55NF06 <br>\* $1.47/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/STP55NF06/603802) | \* Cheapest  <br>\* 60 V 50 Amp \ *Lowest manufactuerer lead time| <br> * No real negatives  |
 
@@ -83,31 +83,31 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-|![Option 1]()
-<br>Option 1.<br>  <br>$1.66/each<br>[link to product]()                 | \* Inexpensive[^1]<br>\* Compatible with PSoC<br>                                         | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
-|![ Option 2]()
-<br>\* Option 2. <br>\*  <br>\* $2.63/each <br>\* [Link to product]() | \* 60 V 48 Amp  <br>\* 471 in stock | * Onsemi is from AZ <br> *more expensive |
-|![ Option 3]()
-<br>\* Option 3. <br>\*  <br>\* $1.47/each <br>\* [Link to product]() | \* Cheapest  <br>\* 60 V 50 Amp \ *Lowest manufactuerer lead time| <br> * No real negatives  |
+|![Option 1](STP55nF06.webp)
+<br>  Option 1 .<br> *L7805CV <br>$0.50/each<br>[link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964)                 | \* Inexpensive[^1]<br>\* We already have these <br>| \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
+|![ Option 2](STP55nF06.webp)
+<br>\* Option 2. <br>\*LM317T  <br>\* $0.56/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/LM317T/591677) | \* Complete series of protection  <br>\* Output current in excess 1.5A | * 1.2 - 37 V  <br> *more expensive |
+|![ Option 3](MOSFet.webp)
+<br>\* Option 3. <br>\*MC7805CTG  <br>\* $0.52/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/onsemi/MC7805CTG/919333) | \* No external components required  <br>\* 5 V 1 Amp <br> \*OnSemi is in AZ | * No real negatives, just 2 cents more expensive  |
 
 **Choice:** Option 1 
 
-**Rationale:** Because
+**Rationale:** Because we already have them in hand and have experimented with the LM7805 in previous class labs, there is no real reason to switch on it now.
 
 ## Power Source
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 |![Option 1]()
-<br>Option 1.<br>  <br>$1.66/each<br>[link to product]()                 | \* Inexpensive[^1]<br>\* Compatible with PSoC<br>                                         | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
+<br>Option 1.<br> *9V Duracell Battery  <br>$4.82/each<br>[link to product](https://www.digikey.com/en/products/detail/duracell-industrial-operations-inc/9V/21259959)   | \* Inexpensive[^1]<br>  | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout to supprt battery. |
 |![ Option 2]()
-<br>\* Option 2. <br>\*  <br>\* $2.63/each <br>\* [Link to product]() | \* 60 V 48 Amp  <br>\* 471 in stock | * Onsemi is from AZ <br> *more expensive |
+<br>\* Option 2. <br> \*WR9HD1333CCP-F(R6B)  <br>\* $6.23/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/globtek-inc/WR9HD1333CCP-F-R6B/13245472) | \* Wall plug in  <br>\* 9V 1.3 A | *more expensive |
 |![ Option 3]()
-<br>\* Option 3. <br>\*  <br>\* $1.47/each <br>\* [Link to product]() | \* Cheapest  <br>\* 60 V 50 Amp \ *Lowest manufactuerer lead time| <br> * No real negatives  |
+<br>\* Option 3. <br>\*LR14XWA/BL3X2  <br>\* $13.47/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/panasonic-energy/LR14XWA-BL3X2/2043779) | \* Doesnt need to plug into wall  <br>\* 9V \ * Rechargable| <br> * Expensive  |
 
-**Choice:** Option 1 
+**Choice:** Option 2
 
-**Rationale:** Because
+**Rationale:** Because as a team we decided to share power from one board, and it was already decided we would use a 9V source from the wall, then we would use Voltage regulators to allow each board to receive 5V.
 
 ## Table for Selected Components
 | Part | Option # |
@@ -117,8 +117,8 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 | NPN Transistor |  |
 | Solenoid Motor | 3 |
 | MOSFET | 3 |
-| Voltage Regulator | |
-| Power Source |  |
+| Voltage Regulator | 1 |
+| Power Source | 2 |
 
 ## MCC Configuration
 

@@ -38,11 +38,11 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 |![Transistor Option 1](transistor.webp)
-<br>\* Option 3. <br>\* BD140 <br>\* $0.68/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/BD140/1037683) | \* 6,666 in stock  <br>\* 80 V 1.5 Amp \ *Lowest manufactuerer lead time| * No real negatives, except expensive  |
+<br>\* Option 1. <br>\* BD140 <br>\* $0.68/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/BD140/1037683) | \* 6,666 in stock  <br>\* 80 V 1.5 Amp \ *Lowest manufactuerer lead time| * No real negatives, except expensive  |
 |![Transistor Option 2](2n2907.webp)
 <br>\* Option 2. <br>\* 2N2907A <br>\* $3.61/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/microchip-technology/2N2907A/279906) | \* 60 V 600 mA  <br>\* 1,288 in stock  <br> \* Microchip is from AZ | *more expensive |
 |![Transistor Option 3](BD140.webp)
-<br> \*Option 1.<br> *2N3906 <br> *$0.14/each<br>[link to product](https://www.digikey.com/en/products/detail/diotec-semiconductor/2N3906/22191309)  | \* Inexpensive[^1] <br>\* 40 V 200 mA <br> | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
+<br> \*Option 3.<br> *2N3906 <br> *$0.14/each<br>[link to product](https://www.digikey.com/en/products/detail/diotec-semiconductor/2N3906/22191309)  | \* Inexpensive[^1] <br>\* 40 V 200 mA <br> | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
 
 **Choice:** Option 3
 

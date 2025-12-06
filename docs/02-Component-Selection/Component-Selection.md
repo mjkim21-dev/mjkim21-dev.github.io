@@ -76,7 +76,7 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 
 **Choice:** Option 3
 
-**Rationale:** In between 3 and 1 because option 1 I already have and do not need to wait, but option 3 might just be better overall in terms of price and functionality. All in all, Option 1 is the easiest because I already have it on hand. However, option 1 is not available right now, so option 3 is better.
+**Rationale:** In between 3 and 1 because option 1, I already have and do not need to wait, but option 3 might just be better overall in terms of price and functionality. All in all, Option 1 is the easiest because I already have it on hand. However, option 1 is not available right now, so option 3 is better.
 
 
 ## Voltage Regulator

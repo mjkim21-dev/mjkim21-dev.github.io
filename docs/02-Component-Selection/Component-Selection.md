@@ -73,7 +73,7 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 
 ## MCC Configuration
 
-[MCC](MCCpinout.png)
+![MCC](MCCpinout.png)
 
 
 

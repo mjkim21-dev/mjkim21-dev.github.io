@@ -4,7 +4,9 @@ title: Microcontroller Code
 
 ## Overview
 
-The code is set to toggle an LED back and forth on pin RF3 and use a speaker when receiving an input. How this is done is this board recieves a digital input from the main board and receives in pin RD6, then I run a DAC (Digital to Analog Conversion) and output an analog signal to pin RA2. I then have a square wave that plays a sound. 
+The code is set to toggle an LED back and forth on pin RF3 and use a speaker when receiving an input. How this is done is this board recieves a digital input from the main board and receives in pin RD6, then I run a DAC (Digital to Analog Conversion) and output an analog signal to pin RA2. I then have a square wave that plays a sound. I have included my main.c file below.
+
+## Main.c code
 
 ```c
 /*
@@ -85,4 +87,3 @@ int main(void)
            
 }
 ```
-**Figure 1**: MPlab x IDE __**main.c**__ code

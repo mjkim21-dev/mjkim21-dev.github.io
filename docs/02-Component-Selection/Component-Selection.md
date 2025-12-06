@@ -110,7 +110,7 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 **Rationale:** Because
 
 ## Table for Selected Components
-| Part | Option# |
+| Part | Option # |
 |---|:---:|
 | Speaker | 3 |
 | PNP Transistor |  |

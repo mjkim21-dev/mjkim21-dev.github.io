@@ -33,6 +33,3 @@ As for the schematic, I've added R1, which is a pull-down resistor on pin RD6. O
 
 This is all for now, and I plan to get better at making PCBs as I progress through the EGR classes here at ASU.
 For hyperlinks to the updated files: [KiCAD Project](FinalSubsystemMK.zip) and [Drill Files](MichaelKim211-8). 
-
-Regards, <br>
-Michael Kim

@@ -1016,7 +1016,85 @@
 
 <h2 id="overview">Overview</h2>
 <p>The code is set to toggle an LED back and forth on pin RF3 and use a speaker when receiving an input. How this is done is this board recieves a digital input from the main board and receives in pin RD6, then I run a DAC (Digital to Analog Conversion) and output an analog signal to pin RA2. I then have a square wave that plays a sound. </p>
-<p><strong>Figure 1</strong>: MPLab x IDE Code </p>
+<p></p><div class="highlight"><pre><span></span><code><span class="cm">/*</span>
+<span class="cm"> * MAIN Generated Driver File</span>
+<span class="cm"> * </span>
+<span class="cm"> * @file main.c</span>
+<span class="cm"> * </span>
+<span class="cm"> * @defgroup main MAIN</span>
+<span class="cm"> * </span>
+<span class="cm"> * @brief This is the generated driver implementation file for the MAIN driver.</span>
+<span class="cm"> *</span>
+<span class="cm"> * @version MAIN Driver Version 1.0.2</span>
+<span class="cm"> *</span>
+<span class="cm"> * @version Package Version: 3.1.2</span>
+<span class="cm">*/</span>
+
+<span class="cm">/*</span>
+<span class="cm">© [2025] Microchip Technology Inc. and its subsidiaries.</span>
+
+<span class="cm">    Subject to your compliance with these terms, you may use Microchip </span>
+<span class="cm">    software and any derivatives exclusively with Microchip products. </span>
+<span class="cm">    You are responsible for complying with 3rd party license terms  </span>
+<span class="cm">    applicable to your use of 3rd party software (including open source  </span>
+<span class="cm">    software) that may accompany Microchip software. SOFTWARE IS ?AS IS.? </span>
+<span class="cm">    NO WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, APPLY TO THIS </span>
+<span class="cm">    SOFTWARE, INCLUDING ANY IMPLIED WARRANTIES OF NON-INFRINGEMENT,  </span>
+<span class="cm">    MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT </span>
+<span class="cm">    WILL MICROCHIP BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, </span>
+<span class="cm">    INCIDENTAL OR CONSEQUENTIAL LOSS, DAMAGE, COST OR EXPENSE OF ANY </span>
+<span class="cm">    KIND WHATSOEVER RELATED TO THE SOFTWARE, HOWEVER CAUSED, EVEN IF </span>
+<span class="cm">    MICROCHIP HAS BEEN ADVISED OF THE POSSIBILITY OR THE DAMAGES ARE </span>
+<span class="cm">    FORESEEABLE. TO THE FULLEST EXTENT ALLOWED BY LAW, MICROCHIP?S </span>
+<span class="cm">    TOTAL LIABILITY ON ALL CLAIMS RELATED TO THE SOFTWARE WILL NOT </span>
+<span class="cm">    EXCEED AMOUNT OF FEES, IF ANY, YOU PAID DIRECTLY TO MICROCHIP FOR </span>
+<span class="cm">    THIS SOFTWARE.</span>
+<span class="cm">*/</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">"mcc_generated_files/system/system.h"</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;stdint.h&gt;</span>
+
+<span class="cm">/*</span>
+<span class="cm">    Main application</span>
+<span class="cm">*/</span>
+
+<span class="kt">int</span><span class="w"> </span><span class="nf">main</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="w">    </span><span class="n">SYSTEM_Initialize</span><span class="p">();</span>
+<span class="w">    </span><span class="n">DAC1_Initialize</span><span class="p">();</span>
+
+
+<span class="w">    </span><span class="kt">uint8_t</span><span class="w"> </span><span class="n">analog_out</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span>
+<span class="w">    </span><span class="kt">int</span><span class="w"> </span><span class="n">LED</span><span class="p">;</span>
+
+<span class="w">    </span><span class="k">while</span><span class="w"> </span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+<span class="w">     </span><span class="p">{</span>
+<span class="w">        </span><span class="n">LED</span><span class="o">+=</span><span class="mi">1</span><span class="p">;</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">LED</span><span class="o">&gt;=</span><span class="mi">1500</span><span class="p">)</span>
+<span class="w">        </span><span class="p">{</span>
+<span class="w">            </span><span class="c1">//LED blink timing</span>
+<span class="w">            </span><span class="n">IO_RF3_Toggle</span><span class="p">();</span><span class="w"> </span>
+<span class="w">            </span><span class="n">LED</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">     </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">IO_RD6_PORT</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">1</span><span class="p">)</span>
+<span class="w">     </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// toggle between 180 and 0 ? square wave</span>
+<span class="w">        </span><span class="n">analog_out</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">analog_out</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">180</span><span class="p">)</span><span class="w"> </span><span class="o">?</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="o">:</span><span class="w"> </span><span class="mi">180</span><span class="w"> </span><span class="p">;</span>
+<span class="w">     </span><span class="p">}</span>
+<span class="w">    </span><span class="k">else</span>
+<span class="w">       </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// silence</span>
+<span class="w">        </span><span class="n">analog_out</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="w">       </span><span class="p">}</span>
+
+<span class="w">        </span><span class="n">DAC1_SetOutput</span><span class="p">(</span><span class="n">analog_out</span><span class="p">);</span>
+
+<span class="w">         </span><span class="n">__delay_ms</span><span class="p">(</span><span class="mi">5</span><span class="p">);</span><span class="w">   </span><span class="c1">// change for pitch</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="p">}</span>
+</code></pre></div>
+<strong>Figure 1</strong>: MPlab x IDE <strong><strong>main.c</strong></strong> code<p></p>
 
 
 

@@ -2,4 +2,4 @@
 title: Appendix
 ---
 
-No addition information
+No additional information

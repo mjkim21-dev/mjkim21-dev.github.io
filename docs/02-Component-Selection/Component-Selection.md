@@ -23,30 +23,30 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 |![Transistor Option 1]()
-<br>Option 1.<br> AOT2618L <br>$1.66/each<br>[link to product]()                 | \* Inexpensive[^1]<br>\* Compatible with PSoC<br>                                         | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
+<br> \*Option 1.<br> *2N3904 <br> \* $0.14/each<br>[link to product](https://www.digikey.com/en/products/detail/diotec-semiconductor/2N3904/13164701) | \* Inexpensive[^1]<br>\* We already have this. <br> | \* Requires external components and support circuitry for interface<br>\* 5 week lead time |
 |![Transistor Option 2]()
-<br>\* Option 2. <br>\* NDP6060L <br>\* $2.63/each <br>\* [Link to product]() | \* 60 V 48 Amp  <br>\* 471 in stock | * Onsemi is from AZ <br> *more expensive |
+<br>\* Option 2. <br>\* 2N2222A <br>\* $0.17/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/diotec-semiconductor/2N2222A/13164037) | \* 60 V 48 Amp  <br>\* 20,239 in stock | * 40 V 600 mA <br> *more expensive |
 |![Transistor Option 3]()
-<br>\* Option 3. <br>\* STP55NF06 <br>\* $1.47/each <br>\* [Link to product]() | \* Cheapest  <br>\* 60 V 50 Amp \ *Lowest manufactuerer lead time| <br> * No real negatives  |
+<br>\* Option 3. <br>\* BC550CBU <br>\* $0.29/each <br>\* [Link to product](BC550CBU) | \* 45 V 100 mA  <br>\* From OnSemi \ *8,667 in stock| <br> * No real negatives, except expenisve  |
 
-**Choice:** Option 1 and 2
+**Choice:** Option 1
 
-**Rationale:** Because
+**Rationale:** Because we already have them and have gone through labs using the 2N3904.
 
 ## PNP Transistor
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 |![Transistor Option 1]()
-<br>Option 1.<br> AOT2618L <br>$1.66/each<br>[link to product]()                 | \* Inexpensive[^1]<br>\* Compatible with PSoC<br>                                         | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
+<br>\* Option 3. <br>\* BD140 <br>\* $0.68/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/BD140/1037683) | \* 6,666 in stock  <br>\* 80 V 1.5 Amp \ *Lowest manufactuerer lead time| * No real negatives, except expensive  |
 |![Transistor Option 2]()
-<br>\* Option 2. <br>\* NDP6060L <br>\* $2.63/each <br>\* [Link to product]() | \* 60 V 48 Amp  <br>\* 471 in stock | * Onsemi is from AZ <br> *more expensive |
+<br>\* Option 2. <br>\* 2N2907A <br>\* $3.61/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/microchip-technology/2N2907A/279906) | \* 60 V 600 mA  <br>\* 1,288 in stock  <br> \* Microchip is from AZ | *more expensive |
 |![Transistor Option 3]()
-<br>\* Option 3. <br>\* STP55NF06 <br>\* $1.47/each <br>\* [Link to product]() | \* Cheapest  <br>\* 60 V 50 Amp \ *Lowest manufactuerer lead time| <br> * No real negatives  |
+<br> \*Option 1.<br> *2N3906 <br> *$0.14/each<br>[link to product](https://www.digikey.com/en/products/detail/diotec-semiconductor/2N3906/22191309)  | \* Inexpensive[^1] <br>\* 40 V 200 mA <br> | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
 
-**Choice:** Option 1 and 2
+**Choice:** Option 3
 
-**Rationale:** Because
+**Rationale:** Because we already have them and have gone through labs using the 2N3906.
 
 ## Solenoid Motor
 

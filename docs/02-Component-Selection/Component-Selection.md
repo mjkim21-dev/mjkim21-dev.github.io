@@ -86,7 +86,7 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 |![Option 1](STP55nF06.webp)
 <br>  Option 1 .<br> *L7805CV <br>$0.50/each<br>[link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964)                 | \* Inexpensive[^1]<br>\* We already have these <br>| \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
 |![ Option 2](STP55nF06.webp)
-<br>\* Option 2. <br>\*LM317T  <br>\* $0.56/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/LM317T/591677) | \* Complete series of protection  <br>\* Output current in excess 1.5A | * 1.2 - 37 V  <br> *more expensive |
+<br>\* Option 2. <br>\*LM317T  <br>\* $0.56/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/stmicroelectronics/LM317T/591677) | \* Complete series of protection  <br>\* Output current in excess 1.5A  \* 1.2 - 37 V | <br> *more expensive |
 |![ Option 3](MOSFet.webp)
 <br>\* Option 3. <br>\*MC7805CTG  <br>\* $0.52/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/onsemi/MC7805CTG/919333) | \* No external components required  <br>\* 5 V 1 Amp <br> \*OnSemi is in AZ | * No real negatives, just 2 cents more expensive  |
 

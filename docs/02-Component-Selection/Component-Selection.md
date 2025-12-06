@@ -49,4 +49,30 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 **Rationale:** In between 3 and 1 because option 1 I already have and do not need to wait, but option 3 might just be better overall in terms of price and functionality. All in all, Option 1 is the easiest because I already have it on hand. However, option 1 is not available right now, so option 3 is better.
 
 
+## Transistors
+
+| **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+|![Transistor Option 1]()
+<br>Option 1.<br> AOT2618L <br>$1.66/each<br>[link to product]()                 | \* Inexpensive[^1]<br>\* Compatible with PSoC<br>                                         | \* Requires external components and support circuitry for interface<br>\* Needs special PCB layout. |
+|![Transistor Option 2]()
+<br>\* Option 2. <br>\* NDP6060L <br>\* $2.63/each <br>\* [Link to product]() | \* 60 V 48 Amp  <br>\* 471 in stock | * Onsemi is from AZ <br> *more expensive |
+|![Transistor Option 3]()
+<br>\* Option 3. <br>\* STP55NF06 <br>\* $1.47/each <br>\* [Link to product]() | \* Cheapest  <br>\* 60 V 50 Amp \ *Lowest manufactuerer lead time| <br> * No real negatives  |
+
+**Choice:** Option 1 and 2
+
+**Rationale:** Because
+
+## Table for Selected Components
+| Name | Age | City |
+|---|:---:|---:|
+| Alice | 30 | New York |
+| Bob | 24 | London |
+| Charlie | 35 | Paris |
+
+## MCC Configuration
+
+
+
 

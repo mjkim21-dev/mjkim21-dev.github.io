@@ -14,6 +14,8 @@ for<br>
 **Submission: December 08, 2025**
 </center>
 
+![Final PCB](IMG_0673.jpg)
+
 ## Introduction
 This website holds all the data and processes from my individual part of the EGR 304 M/W 1:30 pm section of Team 211. The main team project aims to assist homeowners with plant care, so my system is designed to complement the motor and speakers used in the team project.
 

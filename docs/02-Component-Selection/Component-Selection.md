@@ -110,11 +110,11 @@ Option 1.<br> SP-4005Y<br>$2.09/each<br>[link to product](https://www.digikey.co
 **Rationale:** Because as a team we decided to share power from one board, and it was already decided we would use a 9V source from the wall, then we would use Voltage regulators to allow each board to receive 5V.
 
 ## Table for Selected Components
-| Part | Option # |
+| Part | Option # | 
 |---|:---:|
 | Speaker | 3 |
-| PNP Transistor |  |
-| NPN Transistor |  |
+| PNP Transistor | 1 |
+| NPN Transistor | 3 |
 | Solenoid Motor | 3 |
 | MOSFET | 3 |
 | Voltage Regulator | 1 |
